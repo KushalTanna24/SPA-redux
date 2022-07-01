@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SPA-redux/static/css/main.d311d823.chunk.css",
+    "main.js": "/SPA-redux/static/js/main.b8885781.chunk.js",
+    "main.js.map": "/SPA-redux/static/js/main.b8885781.chunk.js.map",
+    "runtime-main.js": "/SPA-redux/static/js/runtime-main.2d64110a.js",
+    "runtime-main.js.map": "/SPA-redux/static/js/runtime-main.2d64110a.js.map",
+    "static/js/2.1eabb155.chunk.js": "/SPA-redux/static/js/2.1eabb155.chunk.js",
+    "static/js/2.1eabb155.chunk.js.map": "/SPA-redux/static/js/2.1eabb155.chunk.js.map",
+    "index.html": "/SPA-redux/index.html",
+    "static/css/main.d311d823.chunk.css.map": "/SPA-redux/static/css/main.d311d823.chunk.css.map",
+    "static/js/2.1eabb155.chunk.js.LICENSE.txt": "/SPA-redux/static/js/2.1eabb155.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d64110a.js",
+    "static/js/2.1eabb155.chunk.js",
+    "static/css/main.d311d823.chunk.css",
+    "static/js/main.b8885781.chunk.js"
+  ]
+}
